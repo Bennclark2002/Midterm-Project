@@ -18,7 +18,7 @@ Hello! My name is Benjamin Clark and im here to tell you everything about me but
 
 **Favorite Activities:**
 
-[Actvities](https://github.com/Bennclark2002/Midterm-Project/blob/4cdddc171dda8bc8164c46063b95da6ac83d2175/Favorite%20Activities.md)
+[Actvities](https://github.com/Bennclark2002/Midterm-Project/blob/a8b985438f819a1248e3cb91e2fe8600180bb90b/Favorite%20Activities.md)
 
 **Examples of my code i have done so far!**
 
