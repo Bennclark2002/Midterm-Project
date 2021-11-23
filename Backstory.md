@@ -7,4 +7,5 @@ Hello once again, im here to tell you a bit about my self!
   * I have 3 older siblings but i am the only one from my mother.
   * Out of my 2 older brothers, I am the only one that has made it past high school and into college.
   * I have 3 dogs at home that i love looking forward to seeing everytime im back there (Half the time thats one of the main reasons that i will go back 😆)
-__Here is a couple of picture of my hometown!__ ![__Here is a couple of pictures of my hometown!__](
+
+### __Here is a picture of the historic part of Blue Springs!__ ![__Here is a picture of the historic part of Blue Springs!__](https://www.bluespringsgov.com/ImageRepository/Document?documentID=13301)
