@@ -14,6 +14,6 @@ Hello! My name is Benjamin Clark and im here to tell you everything about me but
 
 **Why I chose IT:**
 
-[Why IT?](https://github.com/Bennclark2002/Midterm-Project/blob/567e0b147f9ca7dbb3b4490c9a1fbbfe0671b6e1/Why%20I%20Chose%20IT.md)
+[Why IT?](https://github.com/Bennclark2002/Midterm-Project/blob/41c3db55d3ae5a52a3fd848c40b7bc8e6518aabb/Why%20I%20Chose%20IT.md)
 
 **Favorite Activities:**
