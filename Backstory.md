@@ -10,4 +10,6 @@ Hello once again, im here to tell you a bit about my self!
 
 ### __Here is a picture of the historic part of Blue Springs!__ ![__Here is a picture of the historic part of Blue Springs!__](https://www.bluespringsgov.com/ImageRepository/Document?documentID=13301)
 
+
+
 [Back to the Home Page](https://github.com/Bennclark2002/Midterm-Project/blob/3c5a511aca0b9fcc9276fada94f4e644cd01e2b0/README.md)
