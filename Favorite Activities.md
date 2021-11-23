@@ -21,7 +21,13 @@ Im a part of the Engineering Fraternity here Sigma Phi Delta and i do not reget 
 
 ## __Going to Sporting Events__ 
 
+![__Going to Sporting Events__](https://a.vsstatic.com/mobile/app/ncaaf/mizzou-tigers.jpg)
+
+![__Going to Sporting Events__](https://www.sportstravelmagazine.com/wp-content/uploads/2020/08/AP_20013824713550-scaled.jpg)
+
 ## __Playing Video Games__
+
+![__Playing Video Games__](https://cdn.akamai.steamstatic.com/steam/apps/1551360/capsule_616x353.jpg?t=1637617233)
 
 ## __Working out__ 
 
