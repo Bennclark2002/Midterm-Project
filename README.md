@@ -19,3 +19,5 @@ Hello! My name is Benjamin Clark and im here to tell you everything about me but
 **Favorite Activities:**
 
 **Examples of my code i have done so far!**
+
+[Fizz Buzz](https://github.com/Bennclark2002/Midterm-Project/blob/b3587fc58ec2c1fa66529b4e7fcec3b9b2a28686/Fizzbuzz.py)
